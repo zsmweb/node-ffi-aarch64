@@ -1,4 +1,4 @@
-node-ffi
+node-ffi  port for android aarch64 runing in termux
 ========
 ### Node.js Foreign Function Interface
 [![Build Status](https://travis-ci.org/node-ffi/node-ffi.svg?branch=master)](https://travis-ci.org/node-ffi/node-ffi)
